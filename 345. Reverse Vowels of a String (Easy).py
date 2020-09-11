@@ -14,7 +14,7 @@ class Solution:
             low += 1
             high -= 1
             
-        return "".join(s) // print出來為一個自串""為取代逗號的內容如果是
+        return "".join(s) // .join print出來為一個自串list的""為取代逗號的內容如果是
  -----------------------------------------------------
  
  class Solution:
