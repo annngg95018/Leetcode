@@ -31,3 +31,6 @@ pointer1 = m-1
                 pointer2 -= 1
                 pointer3 -= 1
         nums1[:pointer2 + 1] = nums2[:pointer2 + 1] 
+        
+        //reference:https://leetcode-cn.com/problems/merge-sorted-array/solution/shuang-zhi-zhen-cong-hou-xiang-qian-cha-zhu-xing-j/
+                    https://leetcode-cn.com/problems/merge-sorted-array/solution/guan-fang-jie-fa-3fan-xiang-shuang-zhi-zhen-de-xia/
